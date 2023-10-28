@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.input_holder{
+  height:300px;
+  width:400px;
+  margin-left:40%;
+  gap:10px;
+  gap:20px;
+  display:grid;
+  justify-content:center;
+}
+
+label{
+  font-family:sans-serif;
+  font-size:50px;
+}
+
+button{
+  width:300px;
+  height:45px;
+  text-align:center;
+  justify-content:center;
+  margin-top:5%;
+  margin-left:12%;
+}
+
+form{
+  width:700px;
+  height:340px;
+  margin-left:33%;
+  margin-top:1%;
+  justify-content:center;
+  padding:30px;
+  background-color:rgb(141, 105, 182);
+  text-align:center;
+  border-radius:5px;
+}
+
+.input_field{
+   margin:10px;
+   font-size:20px;
+}
+
+h1{
+   margin-top:10px;
+    padding:10px;
+     height:100px; 
+   width:700px; 
+   justify-content:center;
+   text-align:center;
+   background-color:rgb(255, 71, 131);
+   margin-left:33%;
+   border-radius:5px;
+}
+.student{
+  margin-top:30px;
+}
+
+.container{
+  margin-top:10px;
+  padding:10px;
+   height:90px; 
+ width:45%px;
+ background-color:rgb(255, 71, 139);
+ margin-left:15%;
+justify-content:center;
+padding:10px;
+border-radius:5px;
+}
+
+.rohu,.rohu1{
+  font-size:30px;
+  justify-content:center;
+  text-align:center;
+}
+
+
+.containerur{
+  margin-top:10px;
+  padding:10px;
+   /* height:90px;  */
+ width:45%px;
+ background-color:rgb(255, 71, 139);
+ margin-left:15%;
+ margin-right:16%;
+justify-content:center;
+padding:10px;
+border-radius:5px;
+}
